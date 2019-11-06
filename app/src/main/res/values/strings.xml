@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mercari</string>
+
+    <string name="network_ErrorMsg">You appear to be offline. Please check your internet settings.</string>
+
+    <string name="floatingBtnText">Sale</string>
+
+    <string name="btnRetry">Retry</string>
+    <string name="generic_error">Something went wrong.\nPlease check your internet settings &amp; try again later.</string>
+
+    <array name="tabs">
+        <item name="tab_men">Men</item>
+        <item name="app_women">All</item>
+        <item name="app_all">Women</item>
+    </array>
+
+</resources>
